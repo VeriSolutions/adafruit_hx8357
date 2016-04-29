@@ -1,7 +1,7 @@
 #ifndef _ADAFRUIT_GFX_H
 #define _ADAFRUIT_GFX_H
 
-#include "Arduino.h"
+//#include "Arduino.h"
 #include "Print.h"
 
 #include "fonts.h"
